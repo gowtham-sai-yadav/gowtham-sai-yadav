@@ -8,9 +8,6 @@
 - Explore **system design, APIs, and backend engineering**
 - Lead and ship projects with a strong focus on clean code and real-world impact
 
-💼 **Current Role**
-- **Software Development Intern at Scaler AI Labs**
-
 🧠 **Technical Strengths**
 - Programming: **Java, Python, C++, JavaScript**
 - Frontend: **React, Next.js, HTML, CSS**
