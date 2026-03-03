@@ -22,7 +22,7 @@
 
   | Project | Stack | What It Does |
   |---------|-------|-------------|
-  | **LSM-Tree Storage Engine** | Go, B+Tree, WAL | Persistent KV database — **120K writes/sec**, sub-1ms reads, bloom filters, multi-level compaction |
+  | **gravel (LSM-Tree Storage Engine)** | Go, B+Tree, WAL | Persistent KV database — **120K writes/sec**, sub-1ms reads, bloom filters, multi-level compaction |
   | **Workflow Orchestrator** *(mini-Temporal)* | Go, PostgreSQL, gRPC | Durable execution engine with event sourcing, saga pattern, crash recovery via replay |
   | **Feature Flag System** *(mini-LaunchDarkly)* | React, Node.js, Redis, PostgreSQL | A/B analytics, consistent hashing, percentage rollouts, embeddable JS SDK (**sub-5ms** evals) |
   | **Observability Dashboard** *(mini-Grafana)* | Go, React, WebSocket, TimescaleDB | PromQL-like query engine, real-time streaming, drag-and-drop panels, auto-downsampling |
