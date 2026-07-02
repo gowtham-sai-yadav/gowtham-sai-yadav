@@ -42,8 +42,8 @@ I work in the gap between AI research and production — reinforcement-learning 
 
 <div align="center">
 
-![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowtham-sai-yadav&show_icons=true&hide_border=true&count_private=true&title_color=94a6ff&icon_color=94a6ff&text_color=9ba3b7&bg_color=0b0e16)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-sai-yadav&layout=compact&hide_border=true&title_color=94a6ff&text_color=9ba3b7&bg_color=0b0e16)
+![Gowtham's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gowtham-sai-yadav&show_icons=true&hide_border=true&count_private=true&title_color=94a6ff&icon_color=94a6ff&text_color=9ba3b7&bg_color=0b0e16)
+![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gowtham-sai-yadav&layout=compact&hide_border=true&title_color=94a6ff&text_color=9ba3b7&bg_color=0b0e16)
 
 </div>
 
