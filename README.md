@@ -1,98 +1,52 @@
-<div align="center">                                                                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                                                                                                   
-  # Hey, I'm Gowtham Sai G 👋                                                                                                                                                                                                                                                                                      
-                                                                                                                                                                                                                                                                                                                   
-  **Software Engineer | Systems Builder | Full-Stack**                                                                                                                                                                                                                                                             
+<div align="center">
 
-  I build things from scratch — database engines, workflow orchestrators, UI frameworks, and production systems that scale.
+# Gowtham Sai G
 
-  Currently engineering software at scale in Bengaluru. Previously shipped fintech products serving **7,700+ partners** and **INR 4,000+ Cr AUM** at **Wealthy**.
+**Software Engineer** · I build at the edge of AI and real-world systems
 
-  Pursuing **B.Sc. Computer Science** at **BITS Pilani**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-gowthamsai.in-94A6FF?style=flat-square&labelColor=0b0e16)](https://gowthamsai.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-sai-yadav)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gowthamsaiyadav)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gowthamyadav022@gmail.com)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gowtham-sai-yadav)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gowtham_sai_yadav/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamyadav022@gmail.com)
+</div>
 
-  </div>
+---
 
-  ---
+I work in the gap between AI research and production — reinforcement-learning environments, agent infrastructure, and the systems plumbing that makes them trustworthy.
 
-  ## ⚡ What I've Built (From Scratch)
+- 🔭  Recently built RL environments & agent infra at **Scaler AI Labs**, used by frontier labs (OpenAI, Meta, xAI)
+- ⚙️  For fun I write systems software — a storage engine in Go, open-source dev tools, and application security
+- 🎓  CS undergrad at **Scaler School of Technology** & **BITS Pilani**
+- 🌐  More about me at **[gowthamsai.in](https://gowthamsai.in)**
 
-  | Project | Stack | What It Does |
-  |---------|-------|-------------|
-  | **gravel (LSM-Tree Storage Engine)** | Go, B+Tree, WAL | Persistent KV database — **120K writes/sec**, sub-1ms reads, bloom filters, multi-level compaction |
+## Featured Projects
 
-  ---
+| Project | What it is |
+| :-- | :-- |
+| **[Viveka](https://github.com/gowtham-sai-yadav/viveka-env)** | An RL environment that teaches AI agents to pause and ask before an irreversible action. Top 9 of 70,000+ at the Meta × Scaler OpenEnv hackathon. `Python · PyTorch · GRPO/TRL` |
+| **[gravel](https://github.com/gowtham-sai-yadav/gravel)** | An embeddable LSM-tree key-value storage engine in Go — write-ahead log, SSTables, bloom filters, and multi-level compaction. `Go` |
+| **[claude-teleport](https://github.com/gowtham-sai-yadav/claude-teleport)** | A single-binary CLI that migrates your entire Claude Code state across Linux, macOS, and Windows. `Go` |
 
-  ## 🏢 Experience Highlights
+## Experience
 
-  - **Software Engineer** — Built distributed crawlers processing **100K+ pages/day**, MCP servers with **sub-200ms latency**, and evaluation APIs consumed by frontier AI labs
-  - **SDE-1 @ Wealthy (Fintech)** — Led CRM development supporting **INR 4,000+ Cr AUM**, reduced API latency by **32%**, improved conversions by **37%**
-  - **SDE Intern @ Wealthy** — Architected the initial CRM from ground up using React, Next.js, and REST APIs
+- **Scaler AI Labs** — Software Engineer (2026): shipped 5 production RL environments used by frontier labs, a distributed MCP server at sub-200ms p99 (adopted by OpenAI & xAI teams), and an analytics platform serving 20K users.
+- **Wealthy** — SDE-1 (2025): led an internal CRM behind ₹4,000+ Cr AUM; cut API p95 latency 32% and lifted core-flow conversion 37%.
+- **Wealthy** — SDE Intern (2024–25): built the CRM from an empty repository (React, Next.js, REST).
 
-  ---
+## Tech
 
-  ## 🛠 Tech Stack
+![My tech stack](https://skillicons.dev/icons?i=go,python,pytorch,java,cpp,ts,react,nextjs,tailwind,fastapi,django,spring,nodejs,graphql,postgres,redis,mongodb,docker,aws,kubernetes,nginx,linux,git)
 
-  <div align="center">
+## Stats
 
-  **Languages**
+<div align="center">
 
-  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowtham-sai-yadav&show_icons=true&hide_border=true&count_private=true&title_color=94a6ff&icon_color=94a6ff&text_color=9ba3b7&bg_color=0b0e16)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-sai-yadav&layout=compact&hide_border=true&title_color=94a6ff&text_color=9ba3b7&bg_color=0b0e16)
 
-  **Backend & Databases**
+</div>
 
-  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![gRPC](https://img.shields.io/badge/gRPC-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-  **Frontend**
-
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-  **Infra & Tools**
-
-  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-  </div>
-
-  ---
-
-  ## 📊 GitHub Stats
-
-  <div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api?username=gowtham-sai-yadav&theme=tokyonight&hide_border=true&count_private=true&show_icons=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=gowtham-sai-yadav&theme=tokyonight&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-sai-yadav&theme=tokyonight&layout=compact&hide_border=true)
-
-  </div>
-
-  ---
-
-  <div align="center">
-
-  *I like building things that don't exist yet. If it sounds hard, I'm probably already working on it.*
-
-  [![](https://visitcount.itsvg.in/api?id=gowtham-sai-yadav&icon=6&color=1)](https://visitcount.itsvg.in)
-
-  </div>
+<div align="center"><i>I like building things that don't exist yet. If it sounds hard, I'm probably already working on it.</i></div>
